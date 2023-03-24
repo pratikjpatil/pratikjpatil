@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikjpatil&label=Profile%20views&color=0e75b6&style=flat" alt="pratikjpatil" /> </p>
 
-- 🔭 I’m currently working on **Social Media Chat Application**
+- 🔭 I’m currently working on **E-commerce Social Media Chat Application**
 
 - 🌱 I’m currently learning **reactjs**
 
-- 💬 Ask me about **HTML CSS JavaScript NodeJs C C++ Data Structures**
+- 💬 Ask me about **HTML CSS JavaScript NodeJs C C++ Java Data Structures**
 
 - 📫 How to reach me **pratik8560@gmail.com**
 
@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@pratikjpatils" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@t_pr3k" height="30" width="40" /></a>
+<a href="https://twitter.com/@pratikjpatils" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@pratikjpatils" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pratikjpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratikjpatil" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ig_pr3k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_pr3k" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_.pratik.88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_pr3k" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pratik_85" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pratik_85" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pratikjpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pratik_1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pratikjpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratik88" height="30" width="40" /></a>
