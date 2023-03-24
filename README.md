@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikjpatil&label=Profile%20views&color=0e75b6&style=flat" alt="pratikjpatil" /> </p>
 
-- 🔭 I’m currently working on **E-commerce Social Media Chat Application**
+- 🔭 I’m currently working on **E-commerce Application**
 
 - 🌱 I’m currently learning **reactjs**
 
