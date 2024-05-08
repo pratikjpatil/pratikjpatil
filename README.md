@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikjpatil&label=Profile%20views&color=0e75b6&style=flat" alt="pratikjpatil" /> </p>
 
-- 🔭 I’m currently working on **E-commerce Application**
+- 🔭 I’m currently working on **Renting Application**
 
-- 🌱 I’m currently learning **reactjs**
+- 🌱 I’m currently learning **nextjs**
 
-- 💬 Ask me about **HTML CSS JavaScript NodeJs C C++ Java Data Structures**
+- 💬 Ask me about **HTML CSS JavaScript NodeJs ExpressJs ReactJs C C++ Java Data Structures Docker**
 
 - 📫 How to reach me **pratik8560@gmail.com**
 
-- 📄 Know about my experiences [https://pratikjpatil.github.io/cvcss/](https://pratikjpatil.github.io/cvcss/)
+- 📄 Know about my experiences [https://www.pratikjpatil.me](https://pratikjpatil.me)
 
 - ⚡ Fun fact **I think I am Funny!**
 
