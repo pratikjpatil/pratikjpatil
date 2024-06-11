@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Renting Application**
 
-- 🌱 I’m currently learning **nextjs**
+- 🌱 I’m currently learning **Docker**
 
-- 💬 Ask me about **HTML CSS JavaScript NodeJs ExpressJs ReactJs C C++ Java Data Structures Docker**
+- 💬 Ask me about **HTML CSS JavaScript NodeJs ExpressJs ReactJs C C++ Java Docker**
 
 - 📫 How to reach me **pratik8560@gmail.com**
 
